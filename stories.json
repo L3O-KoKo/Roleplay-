@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cyberpunk_noir",
+    "title": "Neon Shadows: Cyberpunk Detective",
+    "setting": "A rain-soaked megacity where corrupt corporations control everything.",
+    "premise": "You and the AI are detectives hunting a rogue AI chip before it can crash the city grid."
+  },
+  {
+    "id": "enchanted_kingdom",
+    "title": "Crown of Thorns: Enchanted Kingdom",
+    "setting": "A fractured magical kingdom where ancient spirits guide the worthy.",
+    "premise": "You and the AI must unite rival houses and reclaim a stolen royal artifact."
+  },
+  {
+    "id": "space_frontier",
+    "title": "Starfall Frontier: Deep Space Crew",
+    "setting": "A frontier star system with unstable wormholes and hidden colonies.",
+    "premise": "You and the AI serve on a scout ship searching for survivors of a vanished expedition."
+  },
+  {
+    "id": "mythic_rome",
+    "title": "Ashes of the Arena: Mythic Rome",
+    "setting": "An alternate ancient Rome where gods influence politics and war.",
+    "premise": "You and the AI are forced allies trying to stop a prophecy-driven civil war."
+  },
+  {
+    "id": "haunted_mansion",
+    "title": "Whispers at Blackwood Manor",
+    "setting": "A vast estate trapped in a looping night full of secrets.",
+    "premise": "You and the AI unravel family mysteries while avoiding spirits tied to your past."
+  },
+  {
+    "id": "post_apocalypse",
+    "title": "Last Ember: Post-Apocalypse Caravan",
+    "setting": "A frozen world where survivors travel between heat domes.",
+    "premise": "You and the AI lead a caravan to a rumored sanctuary while facing raiders and betrayal."
+  }
+]
