@@ -1,5 +1,5 @@
-# Ai_Power_Bot
-## Creating By MarMu + Assistant Codex
+# Ai_Power_Bot 🇲🇲
+## Creating By 🍁 MarMu + Assistant Codex
 
 Professional AI roleplay bot powered by **Gemini API + Telegram + persistent memory**.
 
