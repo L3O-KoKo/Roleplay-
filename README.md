@@ -1,4 +1,4 @@
-# Ai Power TeleG Bot 🇲🇲  🅱️⭕✝️  🇲🇲
+# Ai_Power_Telegram_Bot 🇲🇲  🅱️⭕✝️  🇲🇲
 ## Creating By 🍁 MarMu + Assistant Codex 🎭
 
 Professional AI roleplay bot powered by **Gemini API + Telegram + persistent memory**.
